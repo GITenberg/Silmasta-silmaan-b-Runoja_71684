@@ -1,0 +1,29 @@
+_repo: Silmasta-silmaan-b-Runoja_71684
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kailas, Uuno
+    birthdate: 1901
+    deathdate: 1933
+    gutenberg_agent_id: '4250'
+    url: http://www.gutenberg.org/2009/agents/4250
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Uuno_Kailas
+    - https://fi.wikipedia.org/wiki/Uuno_Kailas
+description: ''
+gutenberg_issued: '2023-09-19'
+identifiers:
+  gutenberg: '71684'
+language: fi
+pgterms:marc905: 20230912071112kailas
+pgterms:marc906: '1926'
+pgterms:marc907: FI
+production_note: Jari Koivisto
+publication_note: '  $aHelsinki :$bHolger Schildtin kust.Oy, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Silmästä silmään : $b Runoja'
+url: http://www.gutenberg.org/ebooks/71684
