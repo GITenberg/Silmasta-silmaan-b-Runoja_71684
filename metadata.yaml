@@ -1,5 +1,8 @@
 _repo: Silmasta-silmaan-b-Runoja_71684
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kailas, Uuno
@@ -11,6 +14,8 @@ creator:
     - https://en.wikipedia.org/wiki/Uuno_Kailas
     - https://fi.wikipedia.org/wiki/Uuno_Kailas
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71684#Silmasta-silmaan-b-Runoja
 gutenberg_issued: '2023-09-19'
 identifiers:
   gutenberg: '71684'
